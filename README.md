@@ -16,7 +16,7 @@ Train-Test Split: Divide the dataset for training and evaluation.
 
 SVM Model Building: Use Support Vector Machine for multi-class classification of resumes.
 
-Model Evaluation: Evaluate using accuracy, precision, recall, F1-score, and confusion matrix.
+Model Evaluation: Evaluate using accuracy, precision, recall, F1-score, and confusion matrix.0000
 
 Model Tuning: Use GridSearchCV to find the best hyperparameters for improved performance.
 
